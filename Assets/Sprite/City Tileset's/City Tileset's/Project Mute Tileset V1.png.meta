@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 65738f335cab45b4bae3db35c0eea34a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3116447705099721559
+    second: Project Mute Tileset V1_0
+  - first:
+      213: 4834588137601275285
+    second: Project Mute Tileset V1_1
+  - first:
+      213: -2313132121988025252
+    second: Project Mute Tileset V1_2
+  - first:
+      213: -2442831926321945075
+    second: Project Mute Tileset V1_3
+  - first:
+      213: -2638289350740591347
+    second: Project Mute Tileset V1_4
+  - first:
+      213: 7402542924721218732
+    second: Project Mute Tileset V1_5
+  - first:
+      213: -6685548260601447438
+    second: Project Mute Tileset V1_6
+  - first:
+      213: 2792916751549567470
+    second: Project Mute Tileset V1_7
+  - first:
+      213: 598162895482343967
+    second: Project Mute Tileset V1_8
+  - first:
+      213: 6438973514045131830
+    second: Project Mute Tileset V1_9
+  - first:
+      213: 5357929512522130595
+    second: Project Mute Tileset V1_10
+  - first:
+      213: -6622494965069599789
+    second: Project Mute Tileset V1_11
+  - first:
+      213: 5731856724194012186
+    second: Project Mute Tileset V1_12
+  - first:
+      213: 5881198861454837831
+    second: Project Mute Tileset V1_13
+  - first:
+      213: 2224702904608733964
+    second: Project Mute Tileset V1_14
+  - first:
+      213: 8570143391450517253
+    second: Project Mute Tileset V1_15
+  - first:
+      213: -8965828944587470301
+    second: Project Mute Tileset V1_16
+  - first:
+      213: -253194128875656605
+    second: Project Mute Tileset V1_17
+  - first:
+      213: -7894657871823364757
+    second: Project Mute Tileset V1_18
+  - first:
+      213: 383728232230190780
+    second: Project Mute Tileset V1_19
+  - first:
+      213: 6535310851750067448
+    second: Project Mute Tileset V1_20
+  - first:
+      213: -868482921042634093
+    second: Project Mute Tileset V1_21
+  - first:
+      213: -3869259951253612854
+    second: Project Mute Tileset V1_22
+  - first:
+      213: -5106975500231593724
+    second: Project Mute Tileset V1_23
+  - first:
+      213: -5303483936977808268
+    second: Project Mute Tileset V1_24
+  - first:
+      213: -1163038802605976804
+    second: Project Mute Tileset V1_25
+  - first:
+      213: -7837000692741562541
+    second: Project Mute Tileset V1_26
+  - first:
+      213: -3197977450242404482
+    second: Project Mute Tileset V1_27
+  - first:
+      213: -8634788172944714383
+    second: Project Mute Tileset V1_28
+  - first:
+      213: -2834088275411919546
+    second: Project Mute Tileset V1_29
+  - first:
+      213: 6497153002866949534
+    second: Project Mute Tileset V1_30
+  - first:
+      213: 5248339564672058085
+    second: Project Mute Tileset V1_31
+  - first:
+      213: 7990350872903812090
+    second: Project Mute Tileset V1_32
+  - first:
+      213: 7988255268723575273
+    second: Project Mute Tileset V1_33
+  - first:
+      213: 2370964400817280638
+    second: Project Mute Tileset V1_34
+  - first:
+      213: 1101696401115400337
+    second: Project Mute Tileset V1_35
+  - first:
+      213: -2090038376627196423
+    second: Project Mute Tileset V1_36
+  - first:
+      213: 283259801968580050
+    second: Project Mute Tileset V1_37
+  - first:
+      213: -2402182507688587163
+    second: Project Mute Tileset V1_38
+  - first:
+      213: -7927200823019670423
+    second: Project Mute Tileset V1_39
+  - first:
+      213: 235318770713031026
+    second: Project Mute Tileset V1_40
+  - first:
+      213: -8469577755101555208
+    second: Project Mute Tileset V1_41
+  - first:
+      213: 7648916549785607935
+    second: Project Mute Tileset V1_42
+  - first:
+      213: 7299415623863757114
+    second: Project Mute Tileset V1_43
+  - first:
+      213: -2500279567545294422
+    second: Project Mute Tileset V1_44
+  - first:
+      213: 2693392450259921885
+    second: Project Mute Tileset V1_45
+  - first:
+      213: -3944085146532857846
+    second: Project Mute Tileset V1_46
+  - first:
+      213: 2601623556215875252
+    second: Project Mute Tileset V1_47
+  - first:
+      213: 3605293311998395137
+    second: Project Mute Tileset V1_48
+  - first:
+      213: 1921634047126861745
+    second: Project Mute Tileset V1_49
+  - first:
+      213: 1550170689062161474
+    second: Project Mute Tileset V1_50
+  - first:
+      213: -8263794114791284287
+    second: Project Mute Tileset V1_51
+  - first:
+      213: 3563819059800898358
+    second: Project Mute Tileset V1_52
+  - first:
+      213: -9024704378090055034
+    second: Project Mute Tileset V1_53
+  - first:
+      213: 900344005101833266
+    second: Project Mute Tileset V1_54
+  - first:
+      213: 5725495608110315241
+    second: Project Mute Tileset V1_55
+  - first:
+      213: 5806056295163098238
+    second: Project Mute Tileset V1_56
+  - first:
+      213: 2929922253027855711
+    second: Project Mute Tileset V1_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bdc871da8df3b20800000000000000
+      internalID: 3116447705099721559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5959a01eb48e71340800000000000000
+      internalID: 4834588137601275285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 127
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54bb5e279a16efd0800000000000000
+      internalID: -2313132121988025252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 127
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06e8914e41591ed0800000000000000
+      internalID: -2442831926321945075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d396250d9e26bd0800000000000000
+      internalID: -2638289350740591347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 178
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4e696d19d1bb660800000000000000
+      internalID: 7402542924721218732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 179
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbbe1e47492833a0800000000000000
+      internalID: -6685548260601447438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1995fecfe62c620800000000000000
+      internalID: 2792916751549567470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 127
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f125b07fbf91d4800800000000000000
+      internalID: 598162895482343967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c0fcebb44db5950800000000000000
+      internalID: 6438973514045131830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 145
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a67d01803b5a40800000000000000
+      internalID: 5357929512522130595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 127
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dba630baeb2814a0800000000000000
+      internalID: -6622494965069599789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ca40d6255ab8f40800000000000000
+      internalID: 5731856724194012186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 130
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748827e54373e9150800000000000000
+      internalID: 5881198861454837831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bbbf7318bbfde10800000000000000
+      internalID: 2224702904608733964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 114
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc19902044fe670800000000000000
+      internalID: 8570143391450517253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ac2f0f31af29380800000000000000
+      internalID: -8965828944587470301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 112
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ae62108497c7cf0800000000000000
+      internalID: -253194128875656605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 112
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d1ab64e7a807290800000000000000
+      internalID: -7894657871823364757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 113
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe7e5c4bc6435500800000000000000
+      internalID: 383728232230190780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc7157189612ba50800000000000000
+      internalID: 6535310851750067448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a92cd726782f3f0800000000000000
+      internalID: -868482921042634093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 98
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac612e51390ad4ac0800000000000000
+      internalID: -3869259951253612854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401b21827d06029b0800000000000000
+      internalID: -5106975500231593724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4749278557d3666b0800000000000000
+      internalID: -5303483936977808268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13dcaefe5e0cdfe0800000000000000
+      internalID: -1163038802605976804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 52
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f16a464616d3390800000000000000
+      internalID: -7837000692741562541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f879ed3708e93d0800000000000000
+      internalID: -3197977450242404482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 66
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d2e0e7e11b2880800000000000000
+      internalID: -8634788172944714383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 83
+        width: 118
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d19f9aabb4ba8d0800000000000000
+      internalID: -2834088275411919546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d3f339b368a2a50800000000000000
+      internalID: 6497153002866949534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e208e4f609d5d840800000000000000
+      internalID: 5248339564672058085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 66
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af30a22c8cd63ee60800000000000000
+      internalID: 7990350872903812090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e94963e7dbfbde60800000000000000
+      internalID: 7988255268723575273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e769fc58f8b57e020800000000000000
+      internalID: 2370964400817280638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1984fce2a030a4f00800000000000000
+      internalID: 1101696401115400337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 67
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fda3328b21bef2e0800000000000000
+      internalID: -2090038376627196423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 67
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d51c730a475ee300800000000000000
+      internalID: 283259801968580050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 47
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560909f8cbbb9aed0800000000000000
+      internalID: -2402182507688587163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9647ab00adcecf190800000000000000
+      internalID: -7927200823019670423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 52
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271f459dc25044300800000000000000
+      internalID: 235318770713031026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f51f9dc7e3067a80800000000000000
+      internalID: -8469577755101555208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 50
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffed39a8319662a60800000000000000
+      internalID: 7648916549785607935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 53
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39e55006dbbc4560800000000000000
+      internalID: 7299415623863757114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 51
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1ab49faf83d4dd0800000000000000
+      internalID: -2500279567545294422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 44
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb267ec92ad06520800000000000000
+      internalID: 2693392450259921885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08b305b47bc349c0800000000000000
+      internalID: -3944085146532857846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 47
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6298327d2da1420800000000000000
+      internalID: 2601623556215875252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_48
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 51
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10381c46a23980230800000000000000
+      internalID: 3605293311998395137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7fa4f0cf30baa10800000000000000
+      internalID: 1921634047126861745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cc5ce4700538510800000000000000
+      internalID: 1550170689062161474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e6ea390b115d80800000000000000
+      internalID: -8263794114791284287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bf23f8d8a357130800000000000000
+      internalID: 3563819059800898358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a970dde2fc1c280800000000000000
+      internalID: -9024704378090055034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 31
+        width: 81
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c4fb73a1aae7c00800000000000000
+      internalID: 900344005101833266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6797cabeb057f40800000000000000
+      internalID: 5725495608110315241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74fd1b4071439050800000000000000
+      internalID: 5806056295163098238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project Mute Tileset V1_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dcc3704cc29a820800000000000000
+      internalID: 2929922253027855711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Project Mute Tileset V1_0: 3116447705099721559
+      Project Mute Tileset V1_1: 4834588137601275285
+      Project Mute Tileset V1_10: 5357929512522130595
+      Project Mute Tileset V1_11: -6622494965069599789
+      Project Mute Tileset V1_12: 5731856724194012186
+      Project Mute Tileset V1_13: 5881198861454837831
+      Project Mute Tileset V1_14: 2224702904608733964
+      Project Mute Tileset V1_15: 8570143391450517253
+      Project Mute Tileset V1_16: -8965828944587470301
+      Project Mute Tileset V1_17: -253194128875656605
+      Project Mute Tileset V1_18: -7894657871823364757
+      Project Mute Tileset V1_19: 383728232230190780
+      Project Mute Tileset V1_2: -2313132121988025252
+      Project Mute Tileset V1_20: 6535310851750067448
+      Project Mute Tileset V1_21: -868482921042634093
+      Project Mute Tileset V1_22: -3869259951253612854
+      Project Mute Tileset V1_23: -5106975500231593724
+      Project Mute Tileset V1_24: -5303483936977808268
+      Project Mute Tileset V1_25: -1163038802605976804
+      Project Mute Tileset V1_26: -7837000692741562541
+      Project Mute Tileset V1_27: -3197977450242404482
+      Project Mute Tileset V1_28: -8634788172944714383
+      Project Mute Tileset V1_29: -2834088275411919546
+      Project Mute Tileset V1_3: -2442831926321945075
+      Project Mute Tileset V1_30: 6497153002866949534
+      Project Mute Tileset V1_31: 5248339564672058085
+      Project Mute Tileset V1_32: 7990350872903812090
+      Project Mute Tileset V1_33: 7988255268723575273
+      Project Mute Tileset V1_34: 2370964400817280638
+      Project Mute Tileset V1_35: 1101696401115400337
+      Project Mute Tileset V1_36: -2090038376627196423
+      Project Mute Tileset V1_37: 283259801968580050
+      Project Mute Tileset V1_38: -2402182507688587163
+      Project Mute Tileset V1_39: -7927200823019670423
+      Project Mute Tileset V1_4: -2638289350740591347
+      Project Mute Tileset V1_40: 235318770713031026
+      Project Mute Tileset V1_41: -8469577755101555208
+      Project Mute Tileset V1_42: 7648916549785607935
+      Project Mute Tileset V1_43: 7299415623863757114
+      Project Mute Tileset V1_44: -2500279567545294422
+      Project Mute Tileset V1_45: 2693392450259921885
+      Project Mute Tileset V1_46: -3944085146532857846
+      Project Mute Tileset V1_47: 2601623556215875252
+      Project Mute Tileset V1_48: 3605293311998395137
+      Project Mute Tileset V1_49: 1921634047126861745
+      Project Mute Tileset V1_5: 7402542924721218732
+      Project Mute Tileset V1_50: 1550170689062161474
+      Project Mute Tileset V1_51: -8263794114791284287
+      Project Mute Tileset V1_52: 3563819059800898358
+      Project Mute Tileset V1_53: -9024704378090055034
+      Project Mute Tileset V1_54: 900344005101833266
+      Project Mute Tileset V1_55: 5725495608110315241
+      Project Mute Tileset V1_56: 5806056295163098238
+      Project Mute Tileset V1_57: 2929922253027855711
+      Project Mute Tileset V1_6: -6685548260601447438
+      Project Mute Tileset V1_7: 2792916751549567470
+      Project Mute Tileset V1_8: 598162895482343967
+      Project Mute Tileset V1_9: 6438973514045131830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
