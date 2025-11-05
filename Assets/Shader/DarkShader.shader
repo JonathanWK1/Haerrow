@@ -3,7 +3,9 @@ Shader "Custom/DarkShader"
     Properties
     {
         [MainColor] _BaseColor("Base Color", Color) = (1, 1, 1, 1)
-        [MainTexture] _BaseMap("Base Map", 2D) = "white"
+        [MainTexture] _BaseMap("Base Map", 2D) = "white" {}
+        _HighlightColor("Highlight Color", Color) = (1, 1, 0, 1)
+        _HighlightStrength("Highlight Strength", Range(0, 1)) = 0
     }
 
     SubShader
@@ -37,6 +39,8 @@ Shader "Custom/DarkShader"
             CBUFFER_START(UnityPerMaterial)
                 half4 _BaseColor;
                 float4 _BaseMap_ST;
+                half4 _HighlightColor;
+                float _HighlightStrength;
             CBUFFER_END
 
             Varyings vert(Attributes IN)
@@ -49,8 +53,12 @@ Shader "Custom/DarkShader"
 
             half4 frag(Varyings IN) : SV_Target
             {
-                half4 color = SAMPLE_TEXTURE2D(_BaseMap, sampler_BaseMap, IN.uv) * _BaseColor;
-                return color;
+                half4 baseColor = SAMPLE_TEXTURE2D(_BaseMap, sampler_BaseMap, IN.uv) * _BaseColor;
+                // Only apply highlight to opaque pixels
+                half alpha = baseColor.a;
+                half3 finalColor = lerp(baseColor.rgb, _HighlightColor.rgb, _HighlightStrength * alpha);
+                return half4(finalColor, alpha);
+
             }
             ENDHLSL
         }

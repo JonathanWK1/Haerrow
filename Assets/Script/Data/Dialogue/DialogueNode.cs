@@ -34,8 +34,9 @@ public class DialogueNode : ScriptableObject
 [System.Serializable]
 public class DialogueOption
 {
-    public string optionText;
+    public string textKey;
     public DialogueNode nextNode;
     [Header("On Dialogue Option Event")]
     public UnityEvent<string> onEvent;
+    public string eventParam;
 }
