@@ -12,6 +12,8 @@ public class Player : MonoBehaviour
     [SerializeField] private float interactRadius = 2f;
 
     private Rigidbody2D rb;
+    private SpriteRenderer sr;
+    private Animator animator;
 
     // Input Actions
     private InputAction moveAction;
@@ -24,6 +26,7 @@ public class Player : MonoBehaviour
     private Interactable currentTarget;
     public string playerName;
     private Vector2 moveInput;
+    private bool flipSprite;
 
     private readonly List<Interactable> nearbyInteractables = new();
     private void Awake()
@@ -40,6 +43,8 @@ public class Player : MonoBehaviour
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        sr = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
         rb.linearVelocity = Vector2.zero;
 
         moveAction = InputSystem.actions.FindAction("Player/Move");
@@ -143,6 +148,12 @@ public class Player : MonoBehaviour
     private void Move()
     {
         moveInput = moveAction.ReadValue<Vector2>().normalized;
+        if (moveInput.x != 0) {
+            flipSprite = moveInput.x < 0;
+        }
+
+        animator.SetBool("IsWalking", moveInput != Vector2.zero);
+        sr.flipX = flipSprite;
         rb.linearVelocity = moveInput * moveSpeed;
     }
 
