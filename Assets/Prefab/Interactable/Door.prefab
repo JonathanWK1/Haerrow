@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 6923150681441470108}
   - component: {fileID: 7654137548350554395}
-  - component: {fileID: 4939067270588506639}
   - component: {fileID: 7608373691485952207}
   - component: {fileID: 8217295421299936628}
+  - component: {fileID: 7359083667600307502}
   m_Layer: 0
   m_Name: Door
   m_TagString: Untagged
@@ -93,35 +93,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &4939067270588506639
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2481948023009339001}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 915acf9cf90a4dc4f830c5b410a1490c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Interactable
-  onInteract:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-  highlightColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  highlightStrength: 0.2
 --- !u!61 &7608373691485952207
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -195,3 +166,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &7359083667600307502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2481948023009339001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caded8ca1ef40664f80760ccb105d1ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Door
+  onInteract:
+    m_PersistentCalls:
+      m_Calls: []
+  highlightColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  highlightStrength: 0.2
+  openDoorSprite: {fileID: 1458710222, guid: f57e08fe0a44f9d48a8e5e40cd8872da, type: 3}
+  doorSprite: {fileID: 8720340679729474556, guid: f57e08fe0a44f9d48a8e5e40cd8872da, type: 3}

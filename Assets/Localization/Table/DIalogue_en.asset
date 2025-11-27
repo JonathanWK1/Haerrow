@@ -34,6 +34,30 @@ MonoBehaviour:
     m_Localized: Let's gooooo
     m_Metadata:
       m_Items: []
+  - m_Id: 7992788036304896
+    m_Localized: Sen ~~~ paiiiii
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993532248440832
+    m_Localized: You are finnaly awake !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993535293505536
+    m_Localized: Yea, your remember me i am Haewon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7993539714301952
+    m_Localized: Oh nice to meet you senpai, i am Haewon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7994770222432256
+    m_Localized: Haewon !?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7994865634459648
+    m_Localized: Who are you? what happened ?
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

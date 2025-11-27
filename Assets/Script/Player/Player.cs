@@ -85,7 +85,7 @@ public class Player : MonoBehaviour
         if (other.isTrigger) return;
 
         Interactable interactable = other.GetComponent<Interactable>();
-        if (interactable && !nearbyInteractables.Contains(interactable))
+        if (interactable && !nearbyInteractables.Contains(interactable) && interactable.IsInteractable)
             nearbyInteractables.Add(interactable);
     }
 
@@ -164,8 +164,13 @@ public class Player : MonoBehaviour
 
     private void OnInteract()
     {
-        Debug.Log("interact");
         if (currentTarget != null)
+        {
             currentTarget.Interact();
+            if (!currentTarget.IsInteractable)
+            {
+                UpdateInteractableTarget();
+            }
+        }
     }
 }

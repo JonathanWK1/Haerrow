@@ -22,6 +22,11 @@ public class DialogueManager : MonoBehaviour
         Instance = this;
     }
 
+    private void Start()
+    {
+        StartDialogue("Intro");
+    }
+
     // ✅ Start dialogue by group name
     public void StartDialogue(string groupName)
     {

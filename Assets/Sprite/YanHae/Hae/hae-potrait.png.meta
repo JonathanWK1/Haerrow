@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f57e08fe0a44f9d48a8e5e40cd8872da
+guid: ce9480a3a9e074a44bd03a105ce99947
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8720340679729474556
-    second: livingroom_LRK_0
+      213: -6601926909438300610
+    second: hae-potrait_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,89 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: livingroom_LRK_0
+      name: hae-potrait_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfbe9a755afd40970800000000000000
-      internalID: 8720340679729474556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: livingroom_LRK_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 7
-        width: 16
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96cc6714e8f3f6a479e85c392abd0da4
-      internalID: 372821322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: livingroom_LRK_2
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ce145470808eb24e8ed62f23080be43
-      internalID: -1944322187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: livingroom_LRK_3
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
+        x: 6
+        y: 0
+        width: 115
+        height: 170
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d49d8df8dc163bd4d9f3348fb79f2d48
-      internalID: 1458710222
+      spriteID: e3e66d1547e3164a0800000000000000
+      internalID: -6601926909438300610
       vertices: []
       indices: 
       edges: []
@@ -191,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d2324036c5da70446a27f8db49e4b8d8
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -199,14 +133,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      livingroom_LRK_0: 8720340679729474556
-      livingroom_LRK_1: 372821322
-      livingroom_LRK_2: -1944322187
-      livingroom_LRK_3: 1458710222
+      hae-potrait_0: -6601926909438300610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

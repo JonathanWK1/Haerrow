@@ -19,11 +19,11 @@ public class DialogueUI : MonoBehaviour
     private List<GameObject> spawnedOptions = new List<GameObject>();
     private bool isVisible = false;
     private StringTable dialogueTable;
-    private StringTable dialogueOptionTable;
+    //private StringTable dialogueOptionTable;
     private void Awake()
     {
-        dialogueTable = LocalizationSettings.StringDatabase.GetTable("Dialogues");
-        dialogueOptionTable = LocalizationSettings.StringDatabase.GetTable("DialogueOptions");
+        dialogueTable = LocalizationSettings.StringDatabase.GetTable("DIalogue");
+        // dialogueOptionTable = LocalizationSettings.StringDatabase.GetTable("DialogueOptions");
         Hide(); // start hidden
     }
 
@@ -36,7 +36,7 @@ public class DialogueUI : MonoBehaviour
 
     private string GetDialogueOptions(string key)
     {
-        string translatedText = dialogueOptionTable.GetEntry(key)?.GetLocalizedString() ?? key;
+        string translatedText = dialogueTable.GetEntry(key)?.GetLocalizedString() ?? key;
         translatedText.Replace("{player}", Player.Instance.playerName);
         return translatedText;
     }
@@ -106,6 +106,7 @@ public class DialogueUI : MonoBehaviour
         {
             gameObject.SetActive(true);
         }
+
         isVisible = true;
     }
 

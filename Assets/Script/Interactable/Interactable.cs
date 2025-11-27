@@ -10,14 +10,15 @@ public class Interactable : MonoBehaviour
     [Header("Highlight Settings")]
     public Color highlightColor = Color.yellow;
     [Range(0f, 1f)] public float highlightStrength = 0.2f;
+    public bool IsInteractable{ get; private set; }
 
     private SpriteRenderer spriteRenderer;
-    private Color defaultColor;
 
     private MaterialPropertyBlock propBlock;
     private bool isHighlighted = false;
     protected virtual void Awake()
     {
+        IsInteractable = true;
         spriteRenderer = GetComponent<SpriteRenderer>();
         propBlock = new MaterialPropertyBlock();
     }
@@ -26,6 +27,15 @@ public class Interactable : MonoBehaviour
     {
         Debug.Log("Lets go");
         onInteract?.Invoke();
+    }
+
+    public virtual void SetIsInteractable(bool isInteractable)
+    {
+        IsInteractable = isInteractable;
+        if (!IsInteractable)
+        {
+            SetHighlight(false);
+        }
     }
 
     public void SetHighlight(bool enable)
