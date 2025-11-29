@@ -451,7 +451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -486,6 +486,8 @@ MonoBehaviour:
   speakerPortrait: {fileID: 6643085621892568482}
   optionsContainer: {fileID: 2477363170228582515}
   optionButtonPrefab: {fileID: 4039853931114644034, guid: 7c30cd6b914ceff4d80327c6c17bfba3, type: 3}
+  typeSpeed: 0.03
+  canContinue: 0
 --- !u!1 &8190692706422649615
 GameObject:
   m_ObjectHideFlags: 0

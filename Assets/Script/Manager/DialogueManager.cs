@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class DialogueManager : MonoBehaviour
     private DialogueGroup currentGroup;
     private DialogueNode currentNode;
 
+    private InputAction nextAction;
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -20,6 +22,8 @@ public class DialogueManager : MonoBehaviour
             return;
         }
         Instance = this;
+        nextAction = InputSystem.actions.FindAction("UI/NextStory");
+        nextAction.performed += _ => SetNextDialogue();
     }
 
     private void Start()
@@ -57,16 +61,23 @@ public class DialogueManager : MonoBehaviour
 
         // send node to UI
         dialogueUI.SetDialogue(currentNode);
-
-        // pass options to UI
-        SetDialogueOptions(currentNode.options);
     }
 
-    private void SetDialogueOptions(List<DialogueOption> options)
+    private void SetNextDialogue()
     {
-        // Delegate option generation to DialogueUI
-        dialogueUI.SetDialogueOption(options);
-    }
+        if (!dialogueUI.canContinue)
+        {
+            dialogueUI.SkipDialogue();
+            return;
+        }
+        if (currentNode.options != null && currentNode.options.Count > 0)
+        {
+            return;
+        }
+        currentNode = currentNode.nextNode;
+
+        ShowCurrentNode();
+    }    
 
     public void SelectOption(DialogueOption option)
     {

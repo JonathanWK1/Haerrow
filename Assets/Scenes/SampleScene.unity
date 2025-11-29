@@ -8762,6 +8762,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6791745810423063108, guid: a7a7f409d5162f7478c083801ffaebd9, type: 3}
+      propertyPath: typeSpeed
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8167202650907484719, guid: a7a7f409d5162f7478c083801ffaebd9, type: 3}
       propertyPath: m_Name
       value: DIalogueUI

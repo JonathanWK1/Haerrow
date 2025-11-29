@@ -16,7 +16,7 @@ MonoBehaviour:
   speakerSprite: {fileID: -6601926909438300610, guid: ce9480a3a9e074a44bd03a105ce99947, type: 3}
   dialogueKey: IS_1
   options: []
-  nextNode: {fileID: 0}
+  nextNode: {fileID: 11400000, guid: 732cb5c43b941e94fa3c70a77f0dc323, type: 2}
   onEvent:
     m_PersistentCalls:
       m_Calls: []
