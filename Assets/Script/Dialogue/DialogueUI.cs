@@ -74,15 +74,11 @@ public class DialogueUI : MonoBehaviour
             StopCoroutine(dialogueCoroutine);
             dialogueCoroutine = null;
         }
-        else
-        {
-            dialogueCoroutine = StartCoroutine(DisplayLine());
-        }
+        dialogueCoroutine = StartCoroutine(DisplayLine());
 
         if (speakerPortrait != null && node.speakerSprite != null)
             speakerPortrait.sprite = node.speakerSprite;
 
-        SetDialogueOption(node.options);
 
         node.onEvent?.Invoke(node.eventParam);
     }

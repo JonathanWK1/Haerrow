@@ -2,13 +2,12 @@
 using UnityEngine.Events;
 using System.Collections.Generic;
 
-[CreateAssetMenu(fileName = "DialogueGroup", menuName = "Game/Dialogue Group")]
-public class DialogueGroup : ScriptableObject
+[CreateAssetMenu(fileName = "DialogueStart", menuName = "Game/Dialogue Start")]
+public class DialogueStart : ScriptableObject
 {
-    [Header("Group Info")]
-    public string groupName;
+    [Header("Info")]
+    public string dialogueStartName;
     public DialogueNode startNode;
-    public List<DialogueNode> allNodes;
 }
 [CreateAssetMenu(fileName = "DialogueNode", menuName = "Game/Dialogue Node")]
 public class DialogueNode : ScriptableObject

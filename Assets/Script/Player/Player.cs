@@ -166,7 +166,9 @@ public class Player : MonoBehaviour
     {
         if (currentTarget != null)
         {
+            Debug.Log(currentTarget);
             currentTarget.Interact();
+            Debug.Log(currentTarget);
             if (!currentTarget.IsInteractable)
             {
                 UpdateInteractableTarget();

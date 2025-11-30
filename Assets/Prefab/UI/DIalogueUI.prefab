@@ -145,8 +145,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Dialogue 1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 35b421e99099fea419f4c02dd7418ab7, type: 2}
+  m_sharedMaterial: {fileID: 5061402045987898434, guid: 35b421e99099fea419f4c02dd7418ab7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -486,7 +486,7 @@ MonoBehaviour:
   speakerPortrait: {fileID: 6643085621892568482}
   optionsContainer: {fileID: 2477363170228582515}
   optionButtonPrefab: {fileID: 4039853931114644034, guid: 7c30cd6b914ceff4d80327c6c17bfba3, type: 3}
-  typeSpeed: 0.03
+  typeSpeed: 0.05
   canContinue: 0
 --- !u!1 &8190692706422649615
 GameObject:
@@ -631,8 +631,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: aaaaaaa
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 35b421e99099fea419f4c02dd7418ab7, type: 2}
+  m_sharedMaterial: {fileID: 5061402045987898434, guid: 35b421e99099fea419f4c02dd7418ab7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

@@ -8,9 +8,9 @@ public class DialogueManager : MonoBehaviour
 
     [Header("References")]
     [SerializeField] private DialogueUI dialogueUI;
-    [SerializeField] private List<DialogueGroup> dialogueGroups = new List<DialogueGroup>();
-
-    private DialogueGroup currentGroup;
+    [SerializeField] private List<DialogueStart> dialogues = new List<DialogueStart>();
+    [SerializeField] private Player player;
+    private DialogueStart currentDialogueStart;
     private DialogueNode currentNode;
 
     private InputAction nextAction;
@@ -34,20 +34,20 @@ public class DialogueManager : MonoBehaviour
     // ✅ Start dialogue by group name
     public void StartDialogue(string groupName)
     {
-        currentGroup = dialogueGroups.Find(g => g.groupName == groupName);
-        if (currentGroup == null)
+        currentDialogueStart = dialogues.Find(g => g.dialogueStartName == groupName);
+        if (currentDialogueStart == null)
         {
             Debug.LogError($"DialogueGroup '{groupName}' not found!");
             return;
         }
 
-        currentNode = currentGroup.startNode;
+        currentNode = currentDialogueStart.startNode;
         if (currentNode == null)
         {
             Debug.LogError($"DialogueGroup '{groupName}' has no start node!");
             return;
         }
-
+        player.DisabledInput(true);
         ShowCurrentNode();
     }
 
@@ -65,6 +65,10 @@ public class DialogueManager : MonoBehaviour
 
     private void SetNextDialogue()
     {
+        if (currentDialogueStart == null && currentNode == null)
+        {
+            return;
+        }
         if (!dialogueUI.canContinue)
         {
             dialogueUI.SkipDialogue();
@@ -74,6 +78,7 @@ public class DialogueManager : MonoBehaviour
         {
             return;
         }
+
         currentNode = currentNode.nextNode;
 
         ShowCurrentNode();
@@ -88,8 +93,9 @@ public class DialogueManager : MonoBehaviour
 
     public void EndDialogue()
     {
+        player.DisabledInput(false);
         dialogueUI.Hide();
-        currentGroup = null;
+        currentDialogueStart = null;
         currentNode = null;
     }
 }

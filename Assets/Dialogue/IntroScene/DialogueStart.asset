@@ -10,9 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
-  m_Name: Intro2
-  m_EditorClassIdentifier: Assembly-CSharp::DialogueGroup
-  groupName: Intro2
-  startNode: {fileID: 11400000, guid: 5373e2159fb95804c9b01a3fd5df89a3, type: 2}
-  allNodes:
-  - {fileID: 11400000, guid: 5373e2159fb95804c9b01a3fd5df89a3, type: 2}
+  m_Name: DialogueStart
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStart
+  dialogueStartName: Intro
+  startNode: {fileID: 11400000, guid: d15d0ca84ed25874c9266d21e0d8b8da, type: 2}
